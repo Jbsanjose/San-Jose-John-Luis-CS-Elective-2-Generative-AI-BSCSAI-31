@@ -1,2 +1,2 @@
-# San-Jose-John-Luis-CS-Elective-2-Generative-AI-31
-Technical Assessment submissions for CS Elective 2: Generative AI and AI-31
+# San-Jose-John-Luis-CS0089-AI-31
+Technical Assessment submissions for CS0089 and AI-31
